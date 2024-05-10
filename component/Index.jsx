@@ -1,6 +1,5 @@
 import React, {useEffect, useRef} from 'react';
 import {Image, StyleSheet, View, Animated} from 'react-native';
-import {useNavigation} from '@react-navigation/native';
 import zinfog from '../imgs/zinfog.png';
 
 const Index = () => {
